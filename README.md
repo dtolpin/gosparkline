@@ -3,7 +3,9 @@
 ## Example
 
 ```Go
-fmt.Println(sparkline([]float64{1, 2, 3}))
+import "bitbucket.org/dtolpin/gosparkline"
+
+fmt.Println(spark.Line([]float64{1, 2, 3}))
 ```
 
 ## License
