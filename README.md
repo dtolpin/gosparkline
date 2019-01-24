@@ -13,4 +13,4 @@ fmt.Println(spark.Line([]float64{1, 2, 3}))
 
 ## License
 
-MIT license.
+[MIT license](LICENSE).
